@@ -1,2 +1,2 @@
 # ColumbusSite
-Website for Columbus app
+Website for Columbus
